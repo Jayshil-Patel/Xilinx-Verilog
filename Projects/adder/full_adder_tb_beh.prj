@@ -1,4 +1,0 @@
-verilog work "half_adder.v"
-verilog work "full_adder.v"
-verilog work "full_adder_tb.v"
-verilog work "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"
