@@ -1,0 +1,10 @@
+[Inputs]
+X
+Y
+[Outputs]
+D
+B
+[BiDir]
+[ATTRIBUTES]
+VeriModel Half_subtractor_Dataflow
+

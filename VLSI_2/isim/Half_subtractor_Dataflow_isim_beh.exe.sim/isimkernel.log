@@ -1,0 +1,29 @@
+Command line:
+   Half_subtractor_Dataflow_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  62574
+
+Wed Oct 21 23:39:12 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5150.68 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 97
+Total Line Count : 16
+
+ Total Simulation Time: 0.015625 sec
+
+ Current Memory Usage: 5150.68 Meg
+
+Wed Oct 21 23:39:24 2020
+

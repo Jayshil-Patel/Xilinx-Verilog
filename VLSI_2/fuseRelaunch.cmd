@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/software saved file/xilinx projects/VLSI_2/Half_subt_behavioral_isim_beh.exe" -prj "D:/softwares/software saved file/xilinx projects/VLSI_2/Half_subt_behavioral_beh.prj" "work.Half_subt_behavioral" "work.glbl" 
