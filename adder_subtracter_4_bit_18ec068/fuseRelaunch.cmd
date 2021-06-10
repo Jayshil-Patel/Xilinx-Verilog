@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt_tb_isim_beh.exe" -prj "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt_tb_beh.prj" "work.add_subt_tb" "work.glbl" 

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt.xst" -ofn "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt.syr" 
+xst -intstyle ise -ifn "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt.xst" -ofn "D:/softwares/xilinx projects/adder_subtracter_4_bit_18ec068/add_subt.syr" 

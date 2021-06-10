@@ -1,0 +1,3 @@
+verilog isim_temp "add_subt.v"
+verilog isim_temp "add_subt_tb.v"
+verilog isim_temp "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"
