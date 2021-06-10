@@ -1,0 +1,3 @@
+verilog isim_temp "Dula_port_RAM.v"
+verilog isim_temp "Dual_port_RAM_tb.v"
+verilog isim_temp "D:/softwares/Xilinx/xilinx_installed/14.7/ISE_DS/ISE//verilog/src/glbl.v"
