@@ -1,0 +1,3 @@
+verilog isim_temp "sequence_detector_18ec068_Moore_non_overlapping.v"
+verilog isim_temp "sequence_detector_18ec068_Moore_non_overlapping_tb.v"
+verilog isim_temp "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"
