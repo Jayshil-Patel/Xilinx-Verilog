@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/BCD_to_7_seg/BCD_to_7_seg_tb_isim_beh.exe" -prj "D:/softwares/xilinx projects/BCD_to_7_seg/BCD_to_7_seg_tb_beh.prj" "work.BCD_to_7_seg_tb" "work.glbl" 
