@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/software saved file/xilinx projects/full_subtractor_dataflow/full_subtractor_tb_isim_beh.exe" -prj "D:/softwares/software saved file/xilinx projects/full_subtractor_dataflow/full_subtractor_tb_beh.prj" "work.full_subtractor_tb" "work.glbl" 

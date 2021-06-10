@@ -1,0 +1,29 @@
+Command line:
+   Full_adder_18ec068_dataflow_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62593
+
+Thu Oct 22 10:13:25 2020
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5151.29 Meg
+
+ Total Signals          : 20
+ Total Nets             : 18
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 101
+Total Line Count : 49
+
+ Total Simulation Time: 0.390625 sec
+
+ Current Memory Usage: 4994 Meg
+
+Thu Oct 22 10:14:32 2020
+
