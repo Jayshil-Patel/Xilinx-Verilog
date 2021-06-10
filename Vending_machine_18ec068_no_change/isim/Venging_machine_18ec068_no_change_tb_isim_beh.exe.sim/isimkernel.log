@@ -1,0 +1,29 @@
+Command line:
+   Venging_machine_18ec068_no_change_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49482
+
+Fri Sep 11 17:36:41 2020
+
+
+ Elaboration Time: 0.0624 sec
+
+ Current Memory Usage: 667.484 Meg
+
+ Total Signals          : 18
+ Total Nets             : 18
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 113
+Total Line Count : 67
+
+ Total Simulation Time: 0.0936 sec
+
+ Current Memory Usage: 667.484 Meg
+
+Fri Sep 11 17:36:49 2020
+
