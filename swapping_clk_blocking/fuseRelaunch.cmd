@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/swapping_clk_blocking/swapping_clk_blocking_18ec068_isim_beh.exe" -prj "D:/softwares/xilinx projects/swapping_clk_blocking/swapping_clk_blocking_18ec068_beh.prj" "work.swapping_clk_blocking_18ec068" "work.glbl" 

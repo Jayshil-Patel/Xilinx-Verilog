@@ -1,0 +1,29 @@
+Command line:
+   swapping_clk_blocking_18ec068_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49562
+
+Tue Oct 06 11:10:29 2020
+
+
+ Elaboration Time: 0.078001 sec
+
+ Current Memory Usage: 667.484 Meg
+
+ Total Signals          : 13
+ Total Nets             : 13
+ Total Signal Drivers   : 5
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 98
+Total Line Count : 20
+
+ Total Simulation Time: 0.156001 sec
+
+ Current Memory Usage: 667.484 Meg
+
+Tue Oct 06 11:10:46 2020
+
