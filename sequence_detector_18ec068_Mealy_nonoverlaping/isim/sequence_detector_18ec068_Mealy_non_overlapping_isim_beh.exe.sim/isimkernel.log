@@ -1,0 +1,29 @@
+Command line:
+   sequence_detector_18ec068_Mealy_non_overlapping_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49368
+
+Sat Sep 05 20:35:10 2020
+
+
+ Elaboration Time: 0.202801 sec
+
+ Current Memory Usage: 667.484 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 111
+Total Line Count : 68
+
+ Total Simulation Time: 0.468003 sec
+
+ Current Memory Usage: 667.484 Meg
+
+Sat Sep 05 20:39:25 2020
+
