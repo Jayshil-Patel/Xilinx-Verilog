@@ -1,0 +1,4 @@
+verilog isim_temp "half_dataflow.v"
+verilog isim_temp "fulladder_structural.v"
+verilog isim_temp "fulladder_structural_tb.v"
+verilog isim_temp "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"

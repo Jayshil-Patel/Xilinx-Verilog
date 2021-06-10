@@ -1,0 +1,2 @@
+verilog work "half_dataflow.v"
+verilog work "fulladder_structural.v"

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/softwares/xilinx projects/half_dataflow/fulladder_structural.xst" -ofn "D:/softwares/xilinx projects/half_dataflow/fulladder_structural.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-3 "fulladder_structural.ngc" fulladder_structural.ngd  
+map -intstyle ise -p xc6slx45-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fulladder_structural_map.ncd fulladder_structural.ngd fulladder_structural.pcf 

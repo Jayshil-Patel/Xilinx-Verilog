@@ -1,0 +1,29 @@
+Command line:
+   half_dataflow_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49159
+
+Thu Jul 30 09:47:11 2020
+
+
+ Elaboration Time: 0.156002 sec
+
+ Current Memory Usage: 667.484 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 97
+Total Line Count : 16
+
+ Total Simulation Time: 0.171602 sec
+
+ Current Memory Usage: 667.484 Meg
+
+Thu Jul 30 09:47:35 2020
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/softwares/xilinx projects/half_dataflow/fulladder_structural_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="fulladder_structural_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/fulladder_structural_tb/x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fulladder_structural_tb/y" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fulladder_structural_tb/z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fulladder_structural_tb/f_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">f_s</obj_property>
+      <obj_property name="ObjectShortName">f_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fulladder_structural_tb/f_c" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">f_c</obj_property>
+      <obj_property name="ObjectShortName">f_c</obj_property>
+   </wvobject>
+</wave_config>

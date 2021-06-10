@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/softwares/xilinx projects/half_gatepm/half_gatepm.xst" -ofn "D:/softwares/xilinx projects/half_gatepm/half_gatepm.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-3 "half_gatepm.ngc" half_gatepm.ngd  
+map -intstyle ise -p xc6slx45-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_gatepm_map.ncd half_gatepm.ngd half_gatepm.pcf 
