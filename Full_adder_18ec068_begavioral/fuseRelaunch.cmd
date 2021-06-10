@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/Full_adder_18ec068_begavioral/Full_adder_18ec068_behavioral_tb_isim_beh.exe" -prj "D:/softwares/xilinx projects/Full_adder_18ec068_begavioral/Full_adder_18ec068_behavioral_tb_beh.prj" "work.Full_adder_18ec068_behavioral_tb" "work.glbl" 
