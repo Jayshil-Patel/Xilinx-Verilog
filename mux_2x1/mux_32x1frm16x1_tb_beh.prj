@@ -1,0 +1,7 @@
+verilog work "mux_2x1.v"
+verilog work "mux_4x1frm2x1.v"
+verilog work "mux_8x1frm4x1.v"
+verilog work "mux_16x1frm8x1.v"
+verilog work "mux_32x1frm16x1.v"
+verilog work "mux_32x1frm16x1_tb.v"
+verilog work "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"
