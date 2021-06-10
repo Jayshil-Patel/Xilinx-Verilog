@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/softwares/software saved file/xilinx projects/half_subtractor_structural/halfsub_st.xst" -ofn "D:/softwares/software saved file/xilinx projects/half_subtractor_structural/halfsub_st.syr" 

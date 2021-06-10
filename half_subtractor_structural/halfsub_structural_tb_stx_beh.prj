@@ -1,0 +1,3 @@
+verilog isim_temp "Half_adder_structural.v"
+verilog isim_temp "halfsub_structural_tb.v"
+verilog isim_temp "D:/softwares/Xilinx/xilinx_installed/14.7/ISE_DS/ISE//verilog/src/glbl.v"

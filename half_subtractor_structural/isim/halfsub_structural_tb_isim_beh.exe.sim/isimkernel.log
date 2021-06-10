@@ -1,0 +1,29 @@
+Command line:
+   halfsub_structural_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62583
+
+Thu Oct 22 00:07:10 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5151.28 Meg
+
+ Total Signals          : 28
+ Total Nets             : 18
+ Total Signal Drivers   : 10
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 12
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 100
+Total Line Count : 30
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 4679.42 Meg
+
+Thu Oct 22 00:11:21 2020
+

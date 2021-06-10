@@ -1,0 +1,3 @@
+verilog work "Half_subtrator_behavioral.v"
+verilog work "half_subtractor_behavioral_tb.v"
+verilog work "D:/softwares/Xilinx/xilinx_installed/14.7/ISE_DS/ISE//verilog/src/glbl.v"

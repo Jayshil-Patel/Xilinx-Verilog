@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="half_subtractor_structural.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="halfsub_st.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="halfsub_st.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="halfsub_st.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="halfsub_st.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfsub_st.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="halfsub_st.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="halfsub_st.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="halfsub_st.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfsub_st_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="halfsub_st_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="halfsub_st_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfsub_structural_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="halfsub_structural_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="halfsub_structural_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfsub_structural_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1603305273" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1603305273">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305424" xil_pn:in_ck="6772360521569999980" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1603305424">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Half_adder_structural.v"/>
+      <outfile xil_pn:name="halfsub_structural_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305427" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3571418998147699031" xil_pn:start_ts="1603305427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305427" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-1614792386470937017" xil_pn:start_ts="1603305427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305427" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="694862139854217864" xil_pn:start_ts="1603305427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305427" xil_pn:in_ck="6772360521569999980" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1603305427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Half_adder_structural.v"/>
+      <outfile xil_pn:name="halfsub_structural_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305429" xil_pn:in_ck="6772360521569999980" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="5428143284408186657" xil_pn:start_ts="1603305427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="halfsub_structural_tb_beh.prj"/>
+      <outfile xil_pn:name="halfsub_structural_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305429" xil_pn:in_ck="-5749314931795025823" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3566953766999236412" xil_pn:start_ts="1603305429">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="halfsub_structural_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="2441951108294023200" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="694862139854217864" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="8458474005619865282" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305531" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="2638080254931042194" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603305539" xil_pn:in_ck="463685048638454582" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-9060329576538169467" xil_pn:start_ts="1603305531">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="halfsub_st.lso"/>
+      <outfile xil_pn:name="halfsub_st.ngc"/>
+      <outfile xil_pn:name="halfsub_st.ngr"/>
+      <outfile xil_pn:name="halfsub_st.prj"/>
+      <outfile xil_pn:name="halfsub_st.stx"/>
+      <outfile xil_pn:name="halfsub_st.syr"/>
+      <outfile xil_pn:name="halfsub_st.xst"/>
+      <outfile xil_pn:name="halfsub_st_stx_beh.prj"/>
+      <outfile xil_pn:name="halfsub_st_xst.xrpt"/>
+      <outfile xil_pn:name="halfsub_structural_tb_beh.prj"/>
+      <outfile xil_pn:name="halfsub_structural_tb_stx_beh.prj"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>
