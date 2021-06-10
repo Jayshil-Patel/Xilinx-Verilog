@@ -1,6 +1,6 @@
 # Xilinx - Verilog
 
-This repository consists of xilins projects I made during my 5th semester
+This repository consists of xilinx projects I made during my 5th semester
 
 
 ## Clone This repository 
