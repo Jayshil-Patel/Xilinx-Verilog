@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/Half_adder_dataflow_18ec068/Full_adder_18ec068_structural_tb_isim_beh.exe" -prj "D:/softwares/xilinx projects/Half_adder_dataflow_18ec068/Full_adder_18ec068_structural_tb_beh.prj" "work.Full_adder_18ec068_structural_tb" "work.glbl" 
