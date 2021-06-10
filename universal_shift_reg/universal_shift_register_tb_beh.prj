@@ -1,0 +1,3 @@
+verilog work "universal_shift_register.v"
+verilog work "universal_shift_register_tb.v"
+verilog work "D:/softwares/14.7/ISE_DS/ISE//verilog/src/glbl.v"

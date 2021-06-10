@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/softwares/xilinx projects/universal_shift_reg/universal_shift_register_tb_isim_beh.exe" -prj "D:/softwares/xilinx projects/universal_shift_reg/universal_shift_register_tb_beh.prj" "work.universal_shift_register_tb" "work.glbl" 
